@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="waypoint" pkg="teleop_moveit" type="waypoint.py" respawn="false" output="screen">
+  </node>
+
+</launch>
